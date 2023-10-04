@@ -1,4 +1,7 @@
 # Hacktoberfest Hello World !!!
+<center>
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/kanishkharde/Hacktoberfest_23"> 
+</center>
 
 HacktoberFest Hello World in every other language ever.
 Just fork it and add a `'Hello World'` program to contribute for hacktober fest and send a Pull Request!!
